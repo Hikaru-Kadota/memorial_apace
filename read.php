@@ -63,32 +63,32 @@ $GeekFukuoka_LAB05 = $stmt->fetchAll();
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a23.png" position="7.0 2.3 -1.7" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a12.png" position="7.0 2.3 -1.7" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a28.png" position="-12.5 -7.3 -9.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a15.png" position="-12.5 -7.3 -9.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a14.png" position="1.5 -5.3 -5.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a18.png" position="1.5 -5.3 -5.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a16.png" position="-1.3 -7.9 -4.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a21.png" position="-1.3 -7.9 -4.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a1.png" position="-4.5 -8.3 -2.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a24.png" position="-4.5 -8.3 -2.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
 
-    <a-image src="img/a20.png" position="6.5 -5.3 -1.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
+    <a-image src="img/a27.png" position="6.5 -5.3 -1.1" geometry="primitive: plane; width: 1" material="color: #F5DEB3	" text="color: black; align: center; font: dejavu;">
       <a-animation begin="click" attribute="scale" dur="500" easing="ease-in-sine" to="5 5 5"></a-animation>
       <a-animation begin="mouseleave" attribute="scale" delay="500" to="1 1 1"></a-animation>
     </a-image>
